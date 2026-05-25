@@ -1,0 +1,48 @@
+{
+  "name": "The Great Cancun Caper #1 — Comic Collectible",
+  "description": "Collectible NFT for finishing The Great Cancun Caper in XRPMan RedCandleKiller Comics.",
+  "image": "ipfs://QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
+  "audio": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
+  "attributes": [
+    {
+      "trait_type": "Comic",
+      "value": "The Great Cancun Caper"
+    },
+    {
+      "trait_type": "Issue",
+      "value": "1"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "XRPMan RedCandleKiller Comics"
+    },
+    {
+      "trait_type": "Taxon",
+      "value": "101"
+    },
+    {
+      "trait_type": "Music",
+      "value": "The Great Cancun Caper Theme"
+    }
+  ],
+  "properties": {
+    "comicId": "great-cancun-caper-01",
+    "category": "audio",
+    "files": [
+      {
+        "uri": "ipfs://QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
+        "type": "image/png"
+      },
+      {
+        "uri": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
+        "type": "audio/mpeg"
+      }
+    ],
+    "music": {
+      "title": "The Great Cancun Caper Theme",
+      "artist": "XRPMan RedCandleKiller",
+      "url": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD"
+    }
+  },
+  "animation_url": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD"
+}
