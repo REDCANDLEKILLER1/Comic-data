@@ -1,5 +1,6 @@
 {
   "version": "v0.8.3-direct-mint-no-signin1",
+  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
   "branding": {
     "header": "XRPMan Presents",
     "title": "XRPMan RedCandleKiller Comics",
@@ -69,7 +70,7 @@
         "onlyXrp": false,
         "mutable": false,
         "transferFee": 0,
-        "mintPriceXrp": "10",
+        "mintPriceXrp": "1",
         "currency": "XRP",
         "supplyMode": "unlimited",
         "passType": "comic-pass",
@@ -87,6 +88,5 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-05-26T01:04:29.148Z",
-  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL"
+  "publishedAt": "2026-05-26T04:27:37.327Z"
 }
