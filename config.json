@@ -57,7 +57,7 @@
       "status": "published",
       "nftPass": {
         "enabled": true,
-        "claimMode": "xrp",
+        "claimMode": "free",
         "mintAuthorityMode": "user-mint",
         "collectionName": "XRPMan RedCandleKiller Comics",
         "collectionTaxon": 101,
@@ -68,8 +68,14 @@
         "burnable": true,
         "onlyXrp": false,
         "mutable": false,
+        "gated": false,
+        "expectedIssuer": "",
+        "trustedIssuers": [],
+        "metadataMode": "full-package",
+        "packageKey": "",
+        "contentManifest": "",
         "transferFee": 0,
-        "mintPriceXrp": "1",
+        "mintPriceXrp": "0",
         "currency": "XRP",
         "supplyMode": "unlimited",
         "passType": "comic-pass",
@@ -87,6 +93,6 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-05-27T01:29:17.738Z",
+  "publishedAt": "2026-05-27T22:10:26.312Z",
   "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL"
 }
