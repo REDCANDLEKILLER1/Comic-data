@@ -21,6 +21,14 @@
       "value": "101"
     },
     {
+      "trait_type": "Pages",
+      "value": "9"
+    },
+    {
+      "trait_type": "Package",
+      "value": "Comic + Music"
+    },
+    {
       "trait_type": "Music",
       "value": "The Great Cancun Caper Theme"
     }
@@ -28,12 +36,70 @@
   "properties": {
     "comicId": "great-cancun-caper-01",
     "category": "audio",
+    "pages": [
+      "ipfs://QmZcMq4wsGBaSqBHR4MJU2Lz7M6hgTKd4HditwtR1kRmcB",
+      "ipfs://QmcYnqrei6w4SRQiFLnYkWFUx6CTzh48Wuj16KgqK4B4pV",
+      "ipfs://QmdDVwckj4ZVHMz3RwvezguxJzGKx6WQYWNUyJkNpW24gh",
+      "ipfs://QmUmbUnw5Zk8pARxemM8GsPsm7SMmjJtYbeDphFynoeouM",
+      "ipfs://QmeDYv7JW324UbmedRcaxWQvEyKNPnU4nch98z65dfM1fM",
+      "ipfs://QmcqFRpeYbwAcR3g4RSqFhF3H5XYd8wQ25WsFpZj5qfUgK",
+      "ipfs://QmfNkFNMU8KrH4Kv4zqrpbFFvEjras8eLP2CXp7kZbV8L2",
+      "ipfs://QmQ5UaRVzvRaSCdEJCJS9JyHTaoMBFBZNiLYoVTykFX67b",
+      "ipfs://QmSdT6VwEhHr3iwDpnL5KYmfa2UVreewSVuJEwDE1AeB31"
+    ],
     "files": [
       {
+        "name": "Cover",
         "uri": "ipfs://QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
         "type": "image/png"
       },
       {
+        "name": "Page 1",
+        "uri": "ipfs://QmZcMq4wsGBaSqBHR4MJU2Lz7M6hgTKd4HditwtR1kRmcB",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 2",
+        "uri": "ipfs://QmcYnqrei6w4SRQiFLnYkWFUx6CTzh48Wuj16KgqK4B4pV",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 3",
+        "uri": "ipfs://QmdDVwckj4ZVHMz3RwvezguxJzGKx6WQYWNUyJkNpW24gh",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 4",
+        "uri": "ipfs://QmUmbUnw5Zk8pARxemM8GsPsm7SMmjJtYbeDphFynoeouM",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 5",
+        "uri": "ipfs://QmeDYv7JW324UbmedRcaxWQvEyKNPnU4nch98z65dfM1fM",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 6",
+        "uri": "ipfs://QmcqFRpeYbwAcR3g4RSqFhF3H5XYd8wQ25WsFpZj5qfUgK",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 7",
+        "uri": "ipfs://QmfNkFNMU8KrH4Kv4zqrpbFFvEjras8eLP2CXp7kZbV8L2",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 8",
+        "uri": "ipfs://QmQ5UaRVzvRaSCdEJCJS9JyHTaoMBFBZNiLYoVTykFX67b",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 9",
+        "uri": "ipfs://QmSdT6VwEhHr3iwDpnL5KYmfa2UVreewSVuJEwDE1AeB31",
+        "type": "image/png"
+      },
+      {
+        "name": "Included Song",
         "uri": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
         "type": "audio/mpeg"
       }
