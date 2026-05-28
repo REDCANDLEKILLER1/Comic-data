@@ -1,12 +1,12 @@
 {
-  "name": "XRPMan #1 — Comic Collectible",
-  "description": "Collectible NFT for finishing XRPMan in XRPMan RedCandleKiller Comics.",
-  "image": "ipfs://QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
-  "audio": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
+  "name": "THE legend of John O #1 — Comic Collectible",
+  "description": "Collectible NFT for finishing THE legend of John O in XRPMan RedCandleKiller Comics.",
+  "image": "ipfs://QmT3zxF26iSYFPVpYqAUSSiBPtCzfGEVgnCPVvm8bm19o1",
+  "audio": "ipfs://QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX",
   "attributes": [
     {
       "trait_type": "Comic",
-      "value": "XRPMan"
+      "value": "THE legend of John O"
     },
     {
       "trait_type": "Issue",
@@ -51,7 +51,7 @@
     "files": [
       {
         "name": "Cover",
-        "uri": "ipfs://QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
+        "uri": "ipfs://QmT3zxF26iSYFPVpYqAUSSiBPtCzfGEVgnCPVvm8bm19o1",
         "type": "image/png"
       },
       {
@@ -106,15 +106,15 @@
       },
       {
         "name": "Included Song",
-        "uri": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
+        "uri": "ipfs://QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX",
         "type": "audio/mpeg"
       }
     ],
     "music": {
       "title": "The Legend Of John O",
       "artist": "XRPMan RedCandleKiller",
-      "url": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD"
+      "url": "ipfs://QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX"
     }
   },
-  "animation_url": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD"
+  "animation_url": "ipfs://QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX"
 }
