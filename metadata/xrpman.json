@@ -2,7 +2,7 @@
   "name": "THE legend of John O #1 — Comic Collectible",
   "description": "Collectible NFT for finishing THE legend of John O in XRPMan RedCandleKiller Comics.",
   "image": "ipfs://QmT3zxF26iSYFPVpYqAUSSiBPtCzfGEVgnCPVvm8bm19o1",
-  "audio": "ipfs://QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX",
+  "audio": "ipfs://QmV5dmjL7vfezmK9ZLPirzvpy7ozr4Rs6gZi1E9iYLY8M2",
   "attributes": [
     {
       "trait_type": "Comic",
@@ -106,15 +106,15 @@
       },
       {
         "name": "Included Song",
-        "uri": "ipfs://QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX",
+        "uri": "ipfs://QmV5dmjL7vfezmK9ZLPirzvpy7ozr4Rs6gZi1E9iYLY8M2",
         "type": "audio/mpeg"
       }
     ],
     "music": {
       "title": "The Legend Of John O",
       "artist": "XRPMan RedCandleKiller",
-      "url": "ipfs://QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX"
+      "url": "ipfs://QmV5dmjL7vfezmK9ZLPirzvpy7ozr4Rs6gZi1E9iYLY8M2"
     }
   },
-  "animation_url": "ipfs://QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX"
+  "animation_url": "ipfs://QmV5dmjL7vfezmK9ZLPirzvpy7ozr4Rs6gZi1E9iYLY8M2"
 }
