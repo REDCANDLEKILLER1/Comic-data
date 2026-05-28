@@ -47,7 +47,7 @@
         "https://ipfs.filebase.io/ipfs/QmSdT6VwEhHr3iwDpnL5KYmfa2UVreewSVuJEwDE1AeB31"
       ],
       "music": {
-        "url": "https://ipfs.filebase.io/ipfs/QmT3zxF26iSYFPVpYqAUSSiBPtCzfGEVgnCPVvm8bm19o1",
+        "url": "https://ipfs.filebase.io/ipfs/Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
         "title": "The Great Cancun Caper Theme",
         "artist": "XRPMan RedCandleKiller",
         "loop": true
@@ -154,6 +154,6 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-05-28T07:10:13.025Z",
-  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL"
+  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
+  "publishedAt": "2026-05-28T07:36:33.815Z"
 }
