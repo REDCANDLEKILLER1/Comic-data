@@ -85,6 +85,67 @@
         "liveMintEnabled": true,
         "livePaymentEnabled": false
       }
+    },
+    {
+      "id": "xrpman",
+      "title": "XRPMan",
+      "subtitle": "THE legend of John O",
+      "issue": 1,
+      "category": "Special Issues",
+      "releaseDate": "2026-05-27",
+      "description": "Instrumental",
+      "cover": "https://ipfs.filebase.io/ipfs/QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
+      "pages": [
+        "https://ipfs.filebase.io/ipfs/QmTYeemzqdfGqCmvFuSvt8hennyf6W5UHcjvSFTVPYMDj5",
+        "https://ipfs.filebase.io/ipfs/QmZvQcq1LFtxgr5bnnKEpLXBYnxKuemqb9wHNXVzSFEQ7y",
+        "https://ipfs.filebase.io/ipfs/QmcYsmSyEDK3HvPkwdTYUL4p4Rcnwvk4jeWX6Fx8V3eX4B",
+        "https://ipfs.filebase.io/ipfs/QmZ2rJQ8XxBkkMaiLMJXDfNYnfm2JUQofdM2CeWWANE3EP",
+        "https://ipfs.filebase.io/ipfs/QmXPUN8Qnpi8BBazotmzz1bfLoYA3TFawKqKzxKVdU42ka",
+        "https://ipfs.filebase.io/ipfs/QmZqaY9nFgvtMRGXF9BPFhG7Gw8CmGCo454JaDUBc4gzjp",
+        "https://ipfs.filebase.io/ipfs/QmUhebwmmaTe9yUk9MW6GhRMkTVhyfCcm6k2W89wEE7zVe",
+        "https://ipfs.filebase.io/ipfs/QmcRy9tXW5Z9YqiaDv6FwB4MvNKAsTZHhgkZHjNo2P5izb",
+        "https://ipfs.filebase.io/ipfs/QmeeUq2CHnDaqwnjPCW78TSFvvtfp7jb8MFt79AyPTzF3N",
+        "https://ipfs.filebase.io/ipfs/QmagJQSweGL3McG3n7vnb8JSCkduxg9wEvz4Ay2TmCA7cM"
+      ],
+      "music": {
+        "url": "https://ipfs.filebase.io/ipfs/Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
+        "title": "The Legend Of John O",
+        "artist": "XRPMan RedCandleKiller",
+        "loop": true
+      },
+      "unlocked": true,
+      "preview": false,
+      "status": "published",
+      "nftPass": {
+        "enabled": true,
+        "claimMode": "xrp",
+        "mintAuthorityMode": "user-mint",
+        "collectionName": "XRPMan RedCandleKiller Comics",
+        "collectionTaxon": 10,
+        "mintImageSource": "cover",
+        "mintPageIndex": 0,
+        "nftUri": "https://raw.githubusercontent.com/REDCANDLEKILLER1/Comic-data/main/metadata/xrpman.json",
+        "transferable": true,
+        "burnable": false,
+        "onlyXrp": false,
+        "mutable": true,
+        "gated": false,
+        "expectedIssuer": "",
+        "trustedIssuers": [],
+        "metadataMode": "full-package",
+        "packageKey": "",
+        "contentManifest": "",
+        "transferFee": 0,
+        "mintPriceXrp": "1",
+        "currency": "XRP",
+        "supplyMode": "unlimited",
+        "passType": "comic-pass",
+        "unlocksNextComic": true,
+        "imageSource": "auto-cover",
+        "audioSource": "auto-music",
+        "liveMintEnabled": true,
+        "livePaymentEnabled": false
+      }
     }
   ],
   "ipfsGateways": [
@@ -93,6 +154,6 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-05-28T04:09:17.112Z",
+  "publishedAt": "2026-05-28T04:48:38.465Z",
   "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL"
 }
