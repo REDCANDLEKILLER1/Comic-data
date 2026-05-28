@@ -1,5 +1,6 @@
 {
   "version": "v0.8.3-direct-mint-no-signin1",
+  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
   "branding": {
     "header": "XRPMan Presents",
     "title": "XRPMan RedCandleKiller Comics",
@@ -116,7 +117,7 @@
       },
       "unlocked": true,
       "preview": false,
-      "featured": false,
+      "featured": true,
       "status": "published",
       "nftPass": {
         "enabled": true,
@@ -156,6 +157,5 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-05-28T16:07:56.877Z",
-  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL"
+  "publishedAt": "2026-05-28T16:14:40.220Z"
 }
