@@ -88,13 +88,13 @@
     },
     {
       "id": "xrpman",
-      "title": "XRPMan",
-      "subtitle": "THE legend of John O",
+      "title": "THE legend of John O",
+      "subtitle": "Part 1",
       "issue": 1,
       "category": "Special Issues",
       "releaseDate": "2026-05-27",
-      "description": "Instrumental",
-      "cover": "https://ipfs.filebase.io/ipfs/QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
+      "description": "A cinematic Nigerian action theme where dark XRPMan piano meets John Olay’s rising harmony power.  It builds from quiet village tension into a heroic orchestral surge of drums, strings, ledger energy, and gold-green guitar spirit.",
+      "cover": "https://ipfs.filebase.io/ipfs/QmT3zxF26iSYFPVpYqAUSSiBPtCzfGEVgnCPVvm8bm19o1",
       "pages": [
         "https://ipfs.filebase.io/ipfs/QmTYeemzqdfGqCmvFuSvt8hennyf6W5UHcjvSFTVPYMDj5",
         "https://ipfs.filebase.io/ipfs/QmZvQcq1LFtxgr5bnnKEpLXBYnxKuemqb9wHNXVzSFEQ7y",
@@ -108,7 +108,7 @@
         "https://ipfs.filebase.io/ipfs/QmagJQSweGL3McG3n7vnb8JSCkduxg9wEvz4Ay2TmCA7cM"
       ],
       "music": {
-        "url": "https://ipfs.filebase.io/ipfs/Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
+        "url": "https://ipfs.filebase.io/ipfs/QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX",
         "title": "The Legend Of John O",
         "artist": "XRPMan RedCandleKiller",
         "loop": true
@@ -154,6 +154,6 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
-  "publishedAt": "2026-05-28T05:28:07.633Z"
+  "publishedAt": "2026-05-28T06:56:04.334Z",
+  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL"
 }
