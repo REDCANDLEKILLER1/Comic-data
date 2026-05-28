@@ -108,7 +108,7 @@
         "https://ipfs.filebase.io/ipfs/QmagJQSweGL3McG3n7vnb8JSCkduxg9wEvz4Ay2TmCA7cM"
       ],
       "music": {
-        "url": "https://ipfs.filebase.io/ipfs/QmfKkAsVr9F85ZpC2TsSu8vsh8QVh4SsgvhMWNXDwS9UEX",
+        "url": "https://ipfs.filebase.io/ipfs/QmV5dmjL7vfezmK9ZLPirzvpy7ozr4Rs6gZi1E9iYLY8M2",
         "title": "The Legend Of John O",
         "artist": "XRPMan RedCandleKiller",
         "loop": true
@@ -155,5 +155,5 @@
     "https://cloudflare-ipfs.com/ipfs/"
   ],
   "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
-  "publishedAt": "2026-05-28T07:36:33.815Z"
+  "publishedAt": "2026-05-28T07:45:50.524Z"
 }
