@@ -1,7 +1,7 @@
 {
   "name": "The Great Cancun Caper #1 — Comic Collectible",
   "description": "Collectible NFT for finishing The Great Cancun Caper in XRPMan RedCandleKiller Comics.",
-  "image": "• https://ipfs.filebase.io/ipfs/QmT3zxF26iSYFPVpYqAUSSiBPtCzfGEVgnCPVvm8bm19o1",
+  "image": "ipfs://QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
   "audio": "ipfs://Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
   "attributes": [
     {
@@ -50,7 +50,7 @@
     "files": [
       {
         "name": "Cover",
-        "uri": "• https://ipfs.filebase.io/ipfs/QmT3zxF26iSYFPVpYqAUSSiBPtCzfGEVgnCPVvm8bm19o1",
+        "uri": "ipfs://QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
         "type": "image/png"
       },
       {
