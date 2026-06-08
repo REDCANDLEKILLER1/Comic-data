@@ -1,0 +1,120 @@
+{
+  "name": "The Legend of John O #2 — Comic Collectible",
+  "description": "Collectible NFT for finishing The Legend of John O in XRPMan RedCandleKiller Comics.",
+  "image": "ipfs://QmS3vdfb1n84qjbaEWTyFKmdPpVDTJDsnyYTWXRWMvA8QB",
+  "audio": "ipfs://QmZhESGsGAzKZKgpn5G66D6bjCRz3yH2PUeZbD6heVeYTC",
+  "attributes": [
+    {
+      "trait_type": "Comic",
+      "value": "The Legend of John O"
+    },
+    {
+      "trait_type": "Issue",
+      "value": "2"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "XRPMan RedCandleKiller Comics"
+    },
+    {
+      "trait_type": "Taxon",
+      "value": "10"
+    },
+    {
+      "trait_type": "Pages",
+      "value": "10"
+    },
+    {
+      "trait_type": "Package",
+      "value": "Comic + Music"
+    },
+    {
+      "trait_type": "Music",
+      "value": "The Legend of John O part 2"
+    }
+  ],
+  "properties": {
+    "comicId": "the-legend-of-john-o-02",
+    "category": "audio",
+    "pages": [
+      "ipfs://QmPz1h5xnBaGwZDAkK383fHpSoUJTFH42gJkdjy7od3D6t",
+      "ipfs://QmfPY9nbFWyPh3Q9ojNHMByyL8bKFxjDMPUizETMbhBzRm",
+      "ipfs://QmREbkeNsS6RuPQgwzz7wpLcrMHqYaym9kmQhjp8CKFQzm",
+      "ipfs://QmSxsFq37D7pvPgnkcyzrexgQETjLefwE3YyjLytZkv7Am",
+      "ipfs://QmbVbUvchbZfx6u26G7kS41CK9tUSe151mC1V4gU2webfd",
+      "ipfs://Qma5YCZNt1PYBKTPLjwNmu2wiH8FwbPkH7AxLM6MVq38Ye",
+      "ipfs://QmNYhNWjLteixJLEqtSkSYoh7h7mBKc7RxxaRCwUxFDuke",
+      "ipfs://QmRFhjyVN9y7q4RQP52LhL7TMrxkucKzMRAm4u5bTZrQRn",
+      "ipfs://QmWbcZTCDJe5BEW9NAYfdcdr8SnSohHMTUmP4Wv8eSsikx",
+      "ipfs://QmQZruNZdCz8wPqiQh9qsNXgiEMNrRM63gx51SxxU95UNW"
+    ],
+    "files": [
+      {
+        "name": "Cover",
+        "uri": "ipfs://QmS3vdfb1n84qjbaEWTyFKmdPpVDTJDsnyYTWXRWMvA8QB",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 1",
+        "uri": "ipfs://QmPz1h5xnBaGwZDAkK383fHpSoUJTFH42gJkdjy7od3D6t",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 2",
+        "uri": "ipfs://QmfPY9nbFWyPh3Q9ojNHMByyL8bKFxjDMPUizETMbhBzRm",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 3",
+        "uri": "ipfs://QmREbkeNsS6RuPQgwzz7wpLcrMHqYaym9kmQhjp8CKFQzm",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 4",
+        "uri": "ipfs://QmSxsFq37D7pvPgnkcyzrexgQETjLefwE3YyjLytZkv7Am",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 5",
+        "uri": "ipfs://QmbVbUvchbZfx6u26G7kS41CK9tUSe151mC1V4gU2webfd",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 6",
+        "uri": "ipfs://Qma5YCZNt1PYBKTPLjwNmu2wiH8FwbPkH7AxLM6MVq38Ye",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 7",
+        "uri": "ipfs://QmNYhNWjLteixJLEqtSkSYoh7h7mBKc7RxxaRCwUxFDuke",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 8",
+        "uri": "ipfs://QmRFhjyVN9y7q4RQP52LhL7TMrxkucKzMRAm4u5bTZrQRn",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 9",
+        "uri": "ipfs://QmWbcZTCDJe5BEW9NAYfdcdr8SnSohHMTUmP4Wv8eSsikx",
+        "type": "image/png"
+      },
+      {
+        "name": "Page 10",
+        "uri": "ipfs://QmQZruNZdCz8wPqiQh9qsNXgiEMNrRM63gx51SxxU95UNW",
+        "type": "image/png"
+      },
+      {
+        "name": "Included Song",
+        "uri": "ipfs://QmZhESGsGAzKZKgpn5G66D6bjCRz3yH2PUeZbD6heVeYTC",
+        "type": "audio/mpeg"
+      }
+    ],
+    "music": {
+      "title": "The Legend of John O part 2",
+      "artist": "Redcandlekiller",
+      "url": "ipfs://QmZhESGsGAzKZKgpn5G66D6bjCRz3yH2PUeZbD6heVeYTC"
+    }
+  },
+  "animation_url": "ipfs://QmZhESGsGAzKZKgpn5G66D6bjCRz3yH2PUeZbD6heVeYTC"
+}
