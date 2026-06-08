@@ -11,10 +11,7 @@
     "video": "https://ipfs.filebase.io/ipfs/QmSxGFs4kChu8tBDeLmJ2PgZb5m1Tja1iKmEpUK5zj6jvS",
     "audio": null,
     "durationMs": 8000,
-    "tapToSkip": true,
-    "videos": [
-      "https://ipfs.filebase.io/ipfs/QmSxGFs4kChu8tBDeLmJ2PgZb5m1Tja1iKmEpUK5zj6jvS"
-    ]
+    "tapToSkip": true
   },
   "homeVideo": null,
   "categories": [
@@ -61,7 +58,7 @@
       "status": "published",
       "nftPass": {
         "enabled": true,
-        "claimMode": "free",
+        "claimMode": "xrp",
         "mintAuthorityMode": "user-mint",
         "collectionName": "XRPMan RedCandleKiller Comics",
         "collectionTaxon": 101,
@@ -69,9 +66,9 @@
         "mintPageIndex": 0,
         "nftUri": "https://raw.githubusercontent.com/REDCANDLEKILLER1/Comic-data/main/metadata/great-cancun-caper-01.json",
         "transferable": true,
-        "burnable": false,
+        "burnable": true,
         "onlyXrp": false,
-        "mutable": true,
+        "mutable": false,
         "gated": false,
         "expectedIssuer": "",
         "trustedIssuers": [],
@@ -79,7 +76,7 @@
         "packageKey": "",
         "contentManifest": "",
         "transferFee": 0,
-        "mintPriceXrp": "0",
+        "mintPriceXrp": "1",
         "maxMintsPerWallet": 0,
         "currency": "XRP",
         "supplyMode": "unlimited",
@@ -93,13 +90,13 @@
     },
     {
       "id": "xrpman",
-      "title": "THE legend of John O",
-      "subtitle": "Part 1",
+      "title": "XRPMan",
+      "subtitle": "THE legend of John O",
       "issue": 1,
       "category": "Special Issues",
       "releaseDate": "2026-05-27",
-      "description": "A cinematic Nigerian action theme where dark XRPMan piano meets John Olay’s rising harmony power.  It builds from quiet village tension into a heroic orchestral surge of drums, strings, ledger energy, and gold-green guitar spirit.",
-      "cover": "https://ipfs.filebase.io/ipfs/QmT3zxF26iSYFPVpYqAUSSiBPtCzfGEVgnCPVvm8bm19o1",
+      "description": "Instrumental",
+      "cover": "https://ipfs.filebase.io/ipfs/QmXtkecTdg4oQxiUse85tvd3vo4EzLzwcwNHa2AzfVnREf",
       "pages": [
         "https://ipfs.filebase.io/ipfs/QmTYeemzqdfGqCmvFuSvt8hennyf6W5UHcjvSFTVPYMDj5",
         "https://ipfs.filebase.io/ipfs/QmZvQcq1LFtxgr5bnnKEpLXBYnxKuemqb9wHNXVzSFEQ7y",
@@ -113,7 +110,7 @@
         "https://ipfs.filebase.io/ipfs/QmagJQSweGL3McG3n7vnb8JSCkduxg9wEvz4Ay2TmCA7cM"
       ],
       "music": {
-        "url": "https://ipfs.filebase.io/ipfs/QmV5dmjL7vfezmK9ZLPirzvpy7ozr4Rs6gZi1E9iYLY8M2",
+        "url": "https://ipfs.filebase.io/ipfs/Qmc6kxDi9G59mL2M9vCcyXJatxwgfjT8crug7a51h6CXZD",
         "title": "The Legend Of John O",
         "artist": "XRPMan RedCandleKiller",
         "loop": true
@@ -152,7 +149,7 @@
         "audioSource": "auto-music",
         "liveMintEnabled": true,
         "livePaymentEnabled": false
-        
+      }
     }
   ],
   "ipfsGateways": [
@@ -162,6 +159,6 @@
     "https://cloudflare-ipfs.com/ipfs/"
   ],
   "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
-  "publishedAt": "2026-06-08T03:08:21.100Z",
+  "publishedAt": "2026-06-08T03:23:02.813Z",
   "discordWebhookUrl": ""
 }
