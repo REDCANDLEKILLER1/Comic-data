@@ -1,6 +1,5 @@
 {
   "version": "v0.8.3-direct-mint-no-signin1",
-  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
   "branding": {
     "header": "XRPMan Presents",
     "title": "XRPMan RedCandleKiller Comics",
@@ -188,7 +187,7 @@
       "status": "published",
       "nftPass": {
         "enabled": true,
-        "claimMode": "xrp",
+        "claimMode": "free",
         "mintAuthorityMode": "user-mint",
         "collectionName": "XRPMan RedCandleKiller Comics",
         "collectionTaxon": 1887,
@@ -196,7 +195,7 @@
         "mintPageIndex": 0,
         "nftUri": "https://raw.githubusercontent.com/REDCANDLEKILLER1/Comic-data/main/metadata/the-legend-of-john-o-02.json",
         "transferable": true,
-        "burnable": true,
+        "burnable": false,
         "onlyXrp": false,
         "mutable": true,
         "gated": false,
@@ -206,7 +205,7 @@
         "packageKey": "",
         "contentManifest": "",
         "transferFee": 0,
-        "mintPriceXrp": "1",
+        "mintPriceXrp": "0",
         "maxMintsPerWallet": 0,
         "currency": "XRP",
         "supplyMode": "unlimited",
@@ -225,6 +224,7 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-06-08T02:49:00.803Z",
+  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
+  "publishedAt": "2026-06-08T03:08:21.100Z",
   "discordWebhookUrl": ""
 }
