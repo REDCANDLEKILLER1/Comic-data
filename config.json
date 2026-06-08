@@ -191,14 +191,14 @@
         "claimMode": "xrp",
         "mintAuthorityMode": "user-mint",
         "collectionName": "XRPMan RedCandleKiller Comics",
-        "collectionTaxon": 101,
+        "collectionTaxon": 1887,
         "mintImageSource": "cover",
         "mintPageIndex": 0,
         "nftUri": "https://raw.githubusercontent.com/REDCANDLEKILLER1/Comic-data/main/metadata/the-legend-of-john-o-02.json",
         "transferable": true,
         "burnable": true,
         "onlyXrp": false,
-        "mutable": false,
+        "mutable": true,
         "gated": false,
         "expectedIssuer": "",
         "trustedIssuers": [],
@@ -225,6 +225,6 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-06-08T02:44:33.195Z",
+  "publishedAt": "2026-06-08T02:46:57.993Z",
   "discordWebhookUrl": ""
 }
