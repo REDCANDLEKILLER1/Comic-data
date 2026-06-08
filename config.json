@@ -81,6 +81,7 @@
         "contentManifest": "",
         "transferFee": 0,
         "mintPriceXrp": "0",
+        "maxMintsPerWallet": 0,
         "currency": "XRP",
         "supplyMode": "unlimited",
         "passType": "comic-pass",
@@ -143,6 +144,7 @@
         "contentManifest": "",
         "transferFee": 0,
         "mintPriceXrp": "1",
+        "maxMintsPerWallet": 0,
         "currency": "XRP",
         "supplyMode": "unlimited",
         "passType": "comic-pass",
@@ -159,7 +161,7 @@
       "subtitle": "XRPMAN: THE LEGEND OF JOHN O. — PART TWO: THE CANDLE KING’S SONG",
       "issue": 2,
       "category": "John Olay",
-      "releaseDate": "2026-06-08",
+      "releaseDate": "2026-06-07",
       "description": "John Olay and XRPMan face a new enemy rising from broken trust: the Candle King. As red candle rage spreads across the village, Stone and Boo fly in from South Carolina with XMΣMΣ backup, setting the stage for a bigger battle where music, ledger power, and truth must stand against fear.",
       "cover": "https://ipfs.filebase.io/ipfs/QmS3vdfb1n84qjbaEWTyFKmdPpVDTJDsnyYTWXRWMvA8QB",
       "pages": [
@@ -186,7 +188,7 @@
       "status": "published",
       "nftPass": {
         "enabled": true,
-        "claimMode": "free",
+        "claimMode": "xrp",
         "mintAuthorityMode": "user-mint",
         "collectionName": "XRPMan RedCandleKiller Comics",
         "collectionTaxon": 101,
@@ -212,7 +214,7 @@
         "unlocksNextComic": true,
         "imageSource": "auto-cover",
         "audioSource": "auto-music",
-        "liveMintEnabled": false,
+        "liveMintEnabled": true,
         "livePaymentEnabled": false
       }
     }
@@ -223,6 +225,6 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-06-08T00:18:52.510Z",
+  "publishedAt": "2026-06-08T00:20:34.071Z",
   "discordWebhookUrl": ""
 }
