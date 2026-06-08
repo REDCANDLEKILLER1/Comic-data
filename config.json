@@ -1,5 +1,6 @@
 {
   "version": "v0.8.3-direct-mint-no-signin1",
+  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL",
   "branding": {
     "header": "XRPMan Presents",
     "title": "XRPMan RedCandleKiller Comics",
@@ -11,7 +12,10 @@
     "video": "https://ipfs.filebase.io/ipfs/QmSxGFs4kChu8tBDeLmJ2PgZb5m1Tja1iKmEpUK5zj6jvS",
     "audio": null,
     "durationMs": 8000,
-    "tapToSkip": true
+    "tapToSkip": true,
+    "videos": [
+      "https://ipfs.filebase.io/ipfs/QmSxGFs4kChu8tBDeLmJ2PgZb5m1Tja1iKmEpUK5zj6jvS"
+    ]
   },
   "homeVideo": null,
   "categories": [
@@ -148,6 +152,69 @@
         "liveMintEnabled": true,
         "livePaymentEnabled": false
       }
+    },
+    {
+      "id": "the-legend-of-john-o-02",
+      "title": "The Legend of John O",
+      "subtitle": "XRPMAN: THE LEGEND OF JOHN O. — PART TWO: THE CANDLE KING’S SONG",
+      "issue": 2,
+      "category": "John Olay",
+      "releaseDate": "2026-06-08",
+      "description": "John Olay and XRPMan face a new enemy rising from broken trust: the Candle King. As red candle rage spreads across the village, Stone and Boo fly in from South Carolina with XMΣMΣ backup, setting the stage for a bigger battle where music, ledger power, and truth must stand against fear.",
+      "cover": "https://ipfs.filebase.io/ipfs/QmS3vdfb1n84qjbaEWTyFKmdPpVDTJDsnyYTWXRWMvA8QB",
+      "pages": [
+        "https://ipfs.filebase.io/ipfs/QmPz1h5xnBaGwZDAkK383fHpSoUJTFH42gJkdjy7od3D6t",
+        "https://ipfs.filebase.io/ipfs/QmfPY9nbFWyPh3Q9ojNHMByyL8bKFxjDMPUizETMbhBzRm",
+        "https://ipfs.filebase.io/ipfs/QmREbkeNsS6RuPQgwzz7wpLcrMHqYaym9kmQhjp8CKFQzm",
+        "https://ipfs.filebase.io/ipfs/QmSxsFq37D7pvPgnkcyzrexgQETjLefwE3YyjLytZkv7Am",
+        "https://ipfs.filebase.io/ipfs/QmbVbUvchbZfx6u26G7kS41CK9tUSe151mC1V4gU2webfd",
+        "https://ipfs.filebase.io/ipfs/Qma5YCZNt1PYBKTPLjwNmu2wiH8FwbPkH7AxLM6MVq38Ye",
+        "https://ipfs.filebase.io/ipfs/QmNYhNWjLteixJLEqtSkSYoh7h7mBKc7RxxaRCwUxFDuke",
+        "https://ipfs.filebase.io/ipfs/QmRFhjyVN9y7q4RQP52LhL7TMrxkucKzMRAm4u5bTZrQRn",
+        "https://ipfs.filebase.io/ipfs/QmWbcZTCDJe5BEW9NAYfdcdr8SnSohHMTUmP4Wv8eSsikx",
+        "https://ipfs.filebase.io/ipfs/QmQZruNZdCz8wPqiQh9qsNXgiEMNrRM63gx51SxxU95UNW"
+      ],
+      "music": {
+        "url": "https://ipfs.filebase.io/ipfs/QmZhESGsGAzKZKgpn5G66D6bjCRz3yH2PUeZbD6heVeYTC",
+        "title": "The Legend of John O part 2",
+        "artist": "Redcandlekiller",
+        "loop": true
+      },
+      "unlocked": true,
+      "preview": false,
+      "featured": false,
+      "status": "published",
+      "nftPass": {
+        "enabled": true,
+        "claimMode": "free",
+        "mintAuthorityMode": "user-mint",
+        "collectionName": "XRPMan RedCandleKiller Comics",
+        "collectionTaxon": 101,
+        "mintImageSource": "cover",
+        "mintPageIndex": 0,
+        "nftUri": "https://raw.githubusercontent.com/REDCANDLEKILLER1/Comic-data/main/metadata/the-legend-of-john-o-02.json",
+        "transferable": true,
+        "burnable": true,
+        "onlyXrp": false,
+        "mutable": false,
+        "gated": false,
+        "expectedIssuer": "",
+        "trustedIssuers": [],
+        "metadataMode": "full-package",
+        "packageKey": "",
+        "contentManifest": "",
+        "transferFee": 0,
+        "mintPriceXrp": "1",
+        "maxMintsPerWallet": 0,
+        "currency": "XRP",
+        "supplyMode": "unlimited",
+        "passType": "comic-pass",
+        "unlocksNextComic": true,
+        "imageSource": "auto-cover",
+        "audioSource": "auto-music",
+        "liveMintEnabled": false,
+        "livePaymentEnabled": false
+      }
     }
   ],
   "ipfsGateways": [
@@ -156,6 +223,6 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-05-28T21:21:04.570Z",
-  "treasury": "r9nepSD5tvQUCA4qQAJJDAoBB3j1gf4ibL"
+  "publishedAt": "2026-06-08T00:18:52.510Z",
+  "discordWebhookUrl": ""
 }
