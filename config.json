@@ -121,7 +121,7 @@
       },
       "unlocked": true,
       "preview": false,
-      "featured": true,
+      "featured": false,
       "status": "published",
       "nftPass": {
         "enabled": true,
@@ -184,7 +184,7 @@
       },
       "unlocked": true,
       "preview": false,
-      "featured": false,
+      "featured": true,
       "status": "published",
       "nftPass": {
         "enabled": true,
@@ -225,6 +225,6 @@
     "https://gateway.pinata.cloud/ipfs/",
     "https://cloudflare-ipfs.com/ipfs/"
   ],
-  "publishedAt": "2026-06-08T00:20:34.071Z",
+  "publishedAt": "2026-06-08T00:23:55.483Z",
   "discordWebhookUrl": ""
 }
